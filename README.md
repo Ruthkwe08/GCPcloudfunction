@@ -1,2 +1,0 @@
-# GCPcloudfunction
-#Test Cloud Function
